@@ -1,16 +1,23 @@
-## Hi there 👋
+### Nice to meet you!👋
 
-<!--
-**milda-vystartiene/milda-vystartiene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analytics enthuziast with a mixed specialization background that allows me to be a universal tool in a company's toolbox:
+```
+- Data analytics (SQL, Spreadsheets, BigQuery)
+- Data visualisations (Power Bi)
+- Software development Project/ Product management
+```
+_Other tools that I use:_
+```
+- 3D modelling and rendering (3Ds Max)
+- Video and image post production (Photoshop, After Effects)
+- Graphic design (Illustrator)
+- Web Design (Framer)
+```
 
-Here are some ideas to get you started:
+### I love: 🐕🐈🐱🐶🍕🍔✈️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently looking for areas where I can use that passion for data analytics and of course make a salary out of it 🙂
+
+![](https://github.com/milda-vystartiene/milda-vystartiene/blob/main/giphy.gif)
+
+```P.S. I'm quite new to Github, so I'm still working on keeping things nice and tidy 🙂```
