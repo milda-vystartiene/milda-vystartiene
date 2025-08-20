@@ -12,6 +12,7 @@ _Other tools that I use:_
 - Video and image post production (Photoshop, After Effects)
 - Graphic design (Illustrator)
 - Web Design (Framer)
+- Website creation (Wordpress)
 ```
 
 ### I love: 🐕🐈🐱🐶🍕🍔✈️
